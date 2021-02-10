@@ -3,7 +3,8 @@ This contains comments of last customers. HTML & CSS simple project, that have a
 
 
                                                * MOBILE DESIGN:
-![Captura de pantalla_2021-02-10_18-24-38](https://user-images.githubusercontent.com/78057070/107586116-5563be80-6bcd-11eb-86b9-00998c9b62d3.png)
+![mobile-design](https://user-images.githubusercontent.com/78057070/107586528-197d2900-6bce-11eb-9912-8d9ab9d8bd13.png)
+
 
 
                                               * DESKTOP DESIGN:
